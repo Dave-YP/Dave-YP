@@ -1,5 +1,4 @@
 # Dave-YP 👻
-# Dave-YP 👻
 
 ### Hey there, I'm Dave, a developer who loves coding, gaming, and bringing cool ideas to life. When I'm not deep in code, you might find me playing games or exploring new tech. Here's what I've been working on:
 
@@ -41,4 +40,3 @@
 ---
 
 "Let's code, create, and embrace the shadows." 💀
-
