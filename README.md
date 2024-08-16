@@ -1,7 +1,7 @@
 # Dave-YP 👻
+# Dave-YP 👻
 
 ### Hey there, I'm Dave, a developer who loves coding, gaming, and bringing cool ideas to life. When I'm not deep in code, you might find me playing games or exploring new tech. Here's what I've been working on:
-
 
 ---
 
@@ -15,6 +15,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Telegram Bot](https://img.shields.io/badge/-Telegram_Bot-2CA5E0?logo=telegram&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white&style=flat)
 
 ---
 
@@ -40,3 +41,4 @@
 ---
 
 "Let's code, create, and embrace the shadows." 💀
+
