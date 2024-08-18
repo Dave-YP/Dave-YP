@@ -24,7 +24,7 @@
 
 - **[A Platform for Designers - Backend](https://github.com/a-platform-for-designers/a-platform-for-designers-backend)**: A job platform for designers looking to find gigs. Built with love, powered by Python and Django. 🎨
 
-- **[FastAPI Telegram Bot ChatGPT Lite]([https://github.com/Dave-YP/fastapi-telegram-bot-chatgpt](https://github.com/Dave-YP/fastapi-chatgpt-telegram-bot-lite)**: A FastAPI-based website and Telegram bot that connects with the ChatGPT API. Because talking to AI is cooler than talking to most people. 🤖
+- **[FastAPI Telegram Bot ChatGPT Lite](https://github.com/Dave-YP/fastapi-chatgpt-telegram-bot-lite)**: A FastAPI-based website and Telegram bot that connects with the ChatGPT API. Because talking to AI is cooler than talking to most people. 🤖
 
 - **[Speak 2 Switch](https://github.com/Dave-YP/speak-2-switch.git)**: A voice-controlled application that interacts with smart switches.
 
