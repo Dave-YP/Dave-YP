@@ -25,4 +25,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git add dist/
           git commit -m "Generate snake graph"
-          git push https://$PAT@github.com/Dave-YP/Dave-YP.git HEAD:main
+          git push https://$PAT@github.com/${{ github.repository }}.git
+ HEAD:main
