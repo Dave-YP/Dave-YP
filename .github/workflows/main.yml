@@ -1,27 +1,24 @@
-name: Generate Snake
+name: Generate Snake Game
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: Dave-YP
-          outputs: dist/snake.svg
-
-      - name: Push generated snake.svg
-        uses: peaceiris/actions-gh-pages@v3
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Upload Snake
+        uses: actions/upload-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          name: snake-graph
+          path: dist/
