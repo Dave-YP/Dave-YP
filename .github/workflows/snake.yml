@@ -23,6 +23,7 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+          git remote set-url origin https://Dave-YP:${{ secrets.ACTIONS_PAT }}@github.com/Dave-YP/Dave-YP.git
           git add dist/
           git commit -m "Generate snake graph"
-          git push https://Dave-YP:${{ secrets.ACTIONS_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          git push origin HEAD:main
