@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule: 
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -13,8 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+
       - name: Generate Snake
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk@v2
         with:
           github_user_name: Dave-YP
           outputs: dist/snake.svg
