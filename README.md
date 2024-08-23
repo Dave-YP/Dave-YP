@@ -20,7 +20,7 @@
 
 ### 🚀 My Projects
 
-- **[Cosmic Heat Pygame](https://github.com/Dave-YP/cosmic-heat-pygame)**: A 2D cosmic shooter game built with Pygame. Shoot first, ask questions never. 🌌
+- **[Cosmic Heat Pygame](https://github.com/Dave-YP/cosmic-heat-pygame)**: A 2D space shooter game built with Pygame. Shoot first, ask questions never. 🌌
 
 - **[A Platform for Designers - Backend](https://github.com/a-platform-for-designers/a-platform-for-designers-backend)**: A job platform for designers looking to find gigs. Built with love, powered by Python and Django. 🎨
 
