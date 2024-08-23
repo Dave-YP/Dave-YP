@@ -41,10 +41,11 @@
 
 "Let's code, create, and embrace the shadows." 💀
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dave-YP/Dave-YP/raw/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dave-YP/Dave-YP/raw/main/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Dave-YP/Dave-YP/raw/main/dist/github-snake.svg" />
 </picture>
+
 
 
 
