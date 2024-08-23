@@ -40,3 +40,5 @@
 ---
 
 "Let's code, create, and embrace the shadows." 💀
+![Snake animation](https://github.com/Dave-YP/snk/blob/output/github-contribution-grid-snake.svg)
+
