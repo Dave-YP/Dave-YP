@@ -32,7 +32,7 @@
 
 ### 📫 Connect with Me
 
-- Telegram: [zertort25](https://t.me/zertort25)
+- Telegram: [Zertort](https://t.me/Zertort)
 - Email: davesimonov@ya.ru
 - Steam: [My Profile](https://steamcommunity.com/profiles/76561198125407812/)
 - Discord: davidsimonoff
