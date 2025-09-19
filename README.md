@@ -20,13 +20,13 @@
 
 ### 🚀 My Projects
 
-- **[Cosmic Heat Pygame](https://github.com/Dave-YP/cosmic-heat-pygame)**: A 2D space shooter game built with Pygame. Shoot first, ask questions never. 🌌
+- **[A Platform for Designers - Backend](https://github.com/a-platform-for-designers/a-platform-for-designers-backend)**: A job platform for designers looking to find gigs. Built with love, powered by Python and Django. 🎨  
+- **Clothing E-Commerce (FastAPI + Docker)**: An online clothing store with user accounts, product catalog, shopping cart, and admin panel. Built with FastAPI, PostgreSQL, Docker, and modern frontend practices. 🛒👕
+- **[FastAPI Telegram Bot ChatGPT Client](https://github.com/Dave-YP/fastapi-telegram-bot-chatgpt-client)**: A FastAPI-based website and Telegram bot that connects with the ChatGPT API. Because talking to AI is cooler than talking to most people. 🤖  
 
-- **[A Platform for Designers - Backend](https://github.com/a-platform-for-designers/a-platform-for-designers-backend)**: A job platform for designers looking to find gigs. Built with love, powered by Python and Django. 🎨
+- **[Speak 2 Switch](https://github.com/Dave-YP/speak-2-switch.git)**: A voice-controlled application that interacts with smart switches.  
+- **[Cosmic Heat Pygame](https://github.com/Dave-YP/cosmic-heat-pygame)**: A 2D space shooter game built with Pygame. Shoot first, ask questions never. 🌌  
 
-- **[FastAPI Telegram Bot ChatGPT Client](https://github.com/Dave-YP/fastapi-telegram-bot-chatgpt-client)**: A FastAPI-based website and Telegram bot that connects with the ChatGPT API. Because talking to AI is cooler than talking to most people. 🤖
-
-- **[Speak 2 Switch](https://github.com/Dave-YP/speak-2-switch.git)**: A voice-controlled application that interacts with smart switches.
 
 ---
 
